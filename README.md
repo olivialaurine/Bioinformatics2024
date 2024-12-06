@@ -1,3 +1,6 @@
+Participants: Olivia Laurine
+
+
 Report: The Role of Candidate Genes in the TGF-β Pathway in Controlling Phenotypes in Muscular Dystrophy
 Muscular dystrophy is a group of genetic disorders characterized by progressive muscle degeneration and weakness. 
 Dysregulation of the TGF-β signaling pathway significantly influences muscle tissue remodeling, fibrosis, and regeneration,
